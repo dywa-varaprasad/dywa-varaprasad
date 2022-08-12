@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DywaVaraprasad&label=Profile%20views&color=0e75b6&style=flat" alt="dywavaraprasad" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@DywaVaraprasad" target="_blank"><img src="https://img.shields.io/twitter/follow/@DywaVaraprasad?logo=twitter&style=for-the-badge" alt="@DywaVaraprasad" /></a> </p>
+
 
 - 🔭 I’m currently working on **MERN APP**
 
