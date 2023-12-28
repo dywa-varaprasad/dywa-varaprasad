@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is DywaVaraprasad</h1>
-<h3 align="center"> I'm a Full stack Developer based in India.</h3>
+<h3 align="center"> I'm a React developer based in India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DywaVaraprasad&label=Profile%20views&color=0e75b6&style=flat" alt="dywavaraprasad" /> </p>
 
